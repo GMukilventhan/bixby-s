@@ -1,0 +1,10 @@
+11:18:26 -- WARNING -- Scanning all ports of 10.33.1.203 with scan_all_ports_thread
+11:20:46 -- WARNING -- Scanning all ports of 0.0.0.0 with scan_all_ports_thread
+11:20:48 -- INFO -- Port 21 is scanned with scan_port_for_threads and is open
+11:20:55 -- INFO -- Port 5000 is scanned with scan_port_for_threads and is open
+11:20:58 -- INFO -- Port 6942 is scanned with scan_port_for_threads and is open
+11:20:58 -- INFO -- Port 7000 is scanned with scan_port_for_threads and is open
+11:21:01 -- INFO -- Port 8770 is scanned with scan_port_for_threads and is open
+11:21:10 -- INFO -- Port 15292 is scanned with scan_port_for_threads and is open
+11:21:10 -- INFO -- Port 15393 is scanned with scan_port_for_threads and is open
+11:21:11 -- INFO -- Port 16494 is scanned with scan_port_for_threads and is open

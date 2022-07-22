@@ -1,0 +1,19 @@
+16:37:22 -- INFO -- FTP initialized
+16:41:12 -- INFO -- Created directory dir2test
+16:42:18 -- INFO -- Changed directory to dir2test
+16:44:47 -- INFO -- Uploaded HIST
+16:44:55 -- INFO -- Changed directory to /
+17:05:28 -- INFO -- FTP initialized
+17:09:18 -- INFO -- FTP initialized
+17:09:27 -- INFO -- Changed directory to dir2test
+17:10:22 -- INFO -- FTP initialized
+17:10:32 -- INFO -- Changed directory to dir2test
+17:10:38 -- INFO -- Uploaded main.py
+17:10:44 -- INFO -- Changed directory to /
+17:12:57 -- INFO -- FTP initialized
+17:13:10 -- INFO -- Changed directory to dir2test
+17:13:20 -- INFO -- Created directory SecondDir
+17:13:29 -- INFO -- Changed directory to SecondDir
+17:13:40 -- INFO -- Uploaded Menu.py
+17:13:49 -- INFO -- Uploaded README.md
+17:13:56 -- INFO -- Changed directory to /

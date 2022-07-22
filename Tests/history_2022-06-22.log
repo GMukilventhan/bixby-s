@@ -1,0 +1,148 @@
+18:56:35 -- SUCESS -- FTP OK
+18:56:37 -- SUCESS -- FTP OK
+18:56:38 -- SUCESS -- FTP OK
+18:56:39 -- SUCESS -- FTP OK
+18:56:47 -- SUCESS -- FTP OK
+18:56:48 -- SUCESS -- FTP OK
+18:56:49 -- SUCESS -- FTP OK
+18:56:50 -- SUCESS -- FTP OK
+18:57:01 -- ERROR -- [Errno 61] Connection refused
+18:57:08 -- SUCESS -- FTP OK
+18:57:19 -- SUCESS -- FTP OK
+18:57:21 -- SUCESS -- FTP OK
+18:57:22 -- SUCESS -- FTP OK
+18:57:28 -- SUCESS -- FTP OK
+19:41:05 -- SUCESS -- FTP initialized
+19:41:26 -- ERROR -- 530 Login or password incorrect!
+19:41:57 -- ERROR -- 530 Login or password incorrect!
+19:42:19 -- SUCESS -- FTP initialized
+19:42:58 -- SUCESS -- FTP initialized
+19:46:23 -- SUCESS -- FTP initialized
+19:46:23 -- SUCESS -- Opened connection
+19:46:37 -- SUCESS -- FTP initialized
+19:46:37 -- SUCESS -- Opened connection
+19:47:06 -- SUCESS -- FTP initialized
+19:47:06 -- SUCESS -- Opened connection
+19:47:26 -- SUCESS -- FTP initialized
+19:47:26 -- SUCESS -- Opened connection
+19:51:56 -- SUCESS -- FTP initialized
+19:51:56 -- SUCESS -- Opened connection
+19:51:56 -- ERROR -- 530 Please login with USER and PASS.
+19:52:37 -- SUCESS -- FTP initialized
+19:52:37 -- SUCESS -- Opened connection
+19:52:37 -- SUCESS -- Opened connection
+19:52:37 -- ERROR -- 530 Please login with USER and PASS.
+19:53:37 -- SUCESS -- FTP initialized
+19:53:37 -- SUCESS -- Opened connection
+19:53:37 -- SUCESS -- Opened connection
+19:53:37 -- ERROR -- 530 Please login with USER and PASS.
+19:54:05 -- SUCESS -- FTP initialized
+19:54:05 -- SUCESS -- Opened connection
+19:54:05 -- ERROR -- 530 Please login with USER and PASS.
+19:55:15 -- SUCESS -- FTP initialized
+19:55:15 -- SUCESS -- Opened connection
+19:55:15 -- ERROR -- 530 Please login with USER and PASS.
+19:55:23 -- SUCESS -- FTP initialized
+19:55:23 -- SUCESS -- Listing files
+19:55:38 -- SUCESS -- FTP initialized
+19:55:38 -- ERROR -- 530 Please login with USER and PASS.
+19:55:38 -- ERROR -- 530 Please login with USER and PASS.
+19:55:52 -- SUCESS -- FTP initialized
+19:55:52 -- SUCESS -- Listing files
+19:56:13 -- SUCESS -- FTP initialized
+19:56:13 -- ERROR -- 530 Please login with USER and PASS.
+19:58:46 -- SUCESS -- FTP initialized
+19:58:46 -- SUCESS -- Listing files
+19:58:46 -- SUCESS -- Renamed 1655917042.100679 to test
+19:59:10 -- SUCESS -- FTP initialized
+19:59:10 -- SUCESS -- Listing files
+19:59:10 -- ERROR -- 550 No such file or directory.
+19:59:41 -- SUCESS -- FTP initialized
+19:59:41 -- SUCESS -- Listing files
+19:59:41 -- ERROR -- 550 No such file or directory.
+19:59:41 -- ERROR -- 550 No such file.
+20:00:27 -- SUCESS -- FTP initialized
+20:00:27 -- SUCESS -- Listing files
+20:00:27 -- ERROR -- 550 No such file or directory.
+20:00:27 -- SUCESS -- Deleted history_2022-06-22.log
+20:00:41 -- SUCESS -- FTP initialized
+20:00:41 -- SUCESS -- Listing files
+20:00:41 -- ERROR -- 550 No such file or directory.
+20:00:41 -- ERROR -- 550 No such file.
+20:01:38 -- SUCESS -- FTP initialized
+20:01:38 -- SUCESS -- Listing files
+20:01:38 -- ERROR -- 550 No such file or directory.
+20:01:38 -- ERROR -- 550 No such file.
+20:01:38 -- ERROR -- 550 File not found.
+20:02:02 -- SUCESS -- FTP initialized
+20:02:02 -- SUCESS -- Listing files
+20:02:02 -- ERROR -- 550 No such file or directory.
+20:02:02 -- ERROR -- 550 No such file.
+20:02:02 -- SUCESS -- Downloaded history.log
+20:02:24 -- SUCESS -- FTP initialized
+20:02:24 -- SUCESS -- Listing files
+20:02:24 -- ERROR -- 550 No such file or directory.
+20:02:24 -- ERROR -- 550 No such file.
+20:02:25 -- SUCESS -- Downloaded history.log
+20:02:25 -- ERROR -- 530 Please login with USER and PASS.
+20:03:34 -- SUCESS -- FTP initialized
+20:03:34 -- SUCESS -- Listing files
+20:03:34 -- ERROR -- 550 No such file or directory.
+20:03:34 -- ERROR -- 550 No such file.
+20:03:44 -- SUCESS -- Downloaded history.log
+20:03:44 -- ERROR -- 530 Please login with USER and PASS.
+20:04:37 -- SUCESS -- FTP initialized
+20:04:37 -- SUCESS -- Listing files
+20:04:37 -- ERROR -- 550 No such file or directory.
+20:04:37 -- ERROR -- 550 No such file.
+20:04:47 -- SUCESS -- Downloaded history.log
+20:04:47 -- ERROR -- 530 Please login with USER and PASS.
+20:05:38 -- SUCESS -- FTP initialized
+20:05:38 -- SUCESS -- Listing files
+20:05:38 -- ERROR -- 550 No such file or directory.
+20:05:38 -- ERROR -- 550 No such file.
+20:05:39 -- SUCESS -- Downloaded history.log
+20:05:39 -- ERROR -- [Errno 2] No such file or directory: '1654650800.848524/Bftp.py'
+20:06:02 -- SUCESS -- FTP initialized
+20:06:02 -- SUCESS -- Listing files
+20:06:02 -- ERROR -- 550 No such file or directory.
+20:06:02 -- ERROR -- 550 No such file.
+20:06:02 -- SUCESS -- Downloaded history.log
+20:06:02 -- ERROR -- [Errno 2] No such file or directory: 'Bftp.py'
+20:06:32 -- SUCESS -- FTP initialized
+20:06:32 -- SUCESS -- Listing files
+20:06:32 -- ERROR -- 550 No such file or directory.
+20:06:32 -- ERROR -- 550 No such file.
+20:06:33 -- SUCESS -- Downloaded history.log
+20:06:33 -- ERROR -- [Errno 2] No such file or directory: 'Bftp.py'
+20:13:19 -- ERROR -- [Errno 61] Connection refused
+20:14:24 -- ERROR -- [Errno 61] Connection refused
+20:14:42 -- SUCESS -- FTP initialized
+20:14:42 -- SUCESS -- Listing files
+20:14:42 -- ERROR -- 550 No such file or directory.
+20:14:42 -- ERROR -- 550 No such file.
+20:14:42 -- SUCESS -- Downloaded history.log
+20:14:42 -- ERROR -- [Errno 32] Broken pipe
+20:14:48 -- SUCESS -- FTP initialized
+20:14:48 -- SUCESS -- Listing files
+20:14:48 -- ERROR -- 550 No such file or directory.
+20:14:48 -- ERROR -- 550 No such file.
+20:14:48 -- SUCESS -- Downloaded history.log
+20:14:48 -- ERROR -- [Errno 32] Broken pipe
+20:15:07 -- SUCESS -- FTP initialized
+20:15:07 -- SUCESS -- Listing files
+20:15:07 -- ERROR -- 550 No such file or directory.
+20:15:07 -- ERROR -- 550 No such file.
+20:15:07 -- SUCESS -- Downloaded history.log
+20:15:07 -- ERROR -- [Errno 32] Broken pipe
+20:15:20 -- SUCESS -- FTP initialized
+20:15:20 -- SUCESS -- Listing files
+20:15:20 -- ERROR -- 550 No such file or directory.
+20:15:20 -- ERROR -- 550 No such file.
+20:15:20 -- SUCESS -- Downloaded history.log
+20:15:20 -- ERROR -- [Errno 32] Broken pipe
+20:19:24 -- SUCESS -- FTP initialized
+20:19:24 -- SUCESS -- Listing files
+20:19:24 -- ERROR -- 550 No such file or directory.
+20:19:24 -- ERROR -- 550 No such file.
+20:19:31 -- SUCESS -- Downloaded history.log

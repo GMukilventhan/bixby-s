@@ -1,0 +1,74 @@
+10:40:39 -- SUCESS -- FTP initialized
+10:40:39 -- SUCESS -- Listing files
+10:40:39 -- ERROR -- 550 No such file or directory.
+10:40:39 -- ERROR -- 550 No such file.
+10:40:39 -- SUCESS -- Downloaded history.log
+10:40:39 -- ERROR -- [Errno 32] Broken pipe
+10:42:34 -- SUCESS -- FTP initialized
+10:42:34 -- SUCESS -- Listing files
+10:42:34 -- ERROR -- 550 No such file or directory.
+10:42:34 -- ERROR -- 550 No such file.
+10:42:34 -- SUCESS -- Downloaded history.log
+10:42:34 -- ERROR -- 550 Can't store file.
+10:44:45 -- SUCESS -- FTP initialized
+10:44:45 -- SUCESS -- Listing files
+10:44:45 -- ERROR -- 550 No such file or directory.
+10:44:45 -- ERROR -- 550 No such file.
+10:44:46 -- SUCESS -- Downloaded history.log
+10:44:46 -- ERROR -- 550 Can't store file.
+10:45:29 -- SUCESS -- FTP initialized
+10:45:29 -- SUCESS -- Listing files
+10:45:29 -- ERROR -- 550 No such file or directory.
+10:45:29 -- ERROR -- 550 No such file.
+10:45:39 -- SUCESS -- Downloaded history.log
+10:45:39 -- ERROR -- 550 Can't store file.
+10:47:35 -- SUCESS -- FTP initialized
+10:47:35 -- SUCESS -- Listing files
+10:47:35 -- ERROR -- 550 No such file or directory.
+10:47:35 -- ERROR -- 550 No such file.
+10:47:45 -- SUCESS -- Downloaded history.log
+10:47:45 -- ERROR -- [Errno 2] No such file or directory: '.history_2022-06-23.log'
+10:48:05 -- SUCESS -- FTP initialized
+10:48:05 -- SUCESS -- Listing files
+10:48:05 -- ERROR -- 550 No such file or directory.
+10:48:05 -- ERROR -- 550 No such file.
+10:48:16 -- SUCESS -- Downloaded history.log
+10:48:16 -- SUCESS -- Uploaded history_2022-06-23.log
+10:50:36 -- SUCESS -- FTP initialized
+10:50:36 -- SUCESS -- Listing files
+10:50:36 -- ERROR -- 550 No such file or directory.
+10:50:36 -- ERROR -- 550 No such file.
+10:50:46 -- SUCESS -- Downloaded history.log
+10:50:46 -- ERROR -- [Errno 32] Broken pipe
+10:50:46 -- ERROR -- 550 Can't store file.
+10:51:17 -- SUCESS -- FTP initialized
+10:51:17 -- SUCESS -- Listing files
+10:51:17 -- ERROR -- 550 No such file or directory.
+10:51:17 -- SUCESS -- Deleted history_2022-06-23.log
+10:51:27 -- SUCESS -- Downloaded history.log
+10:51:27 -- ERROR -- [Errno 32] Broken pipe
+10:51:27 -- ERROR -- 550 Can't store file.
+10:51:47 -- SUCESS -- FTP initialized
+10:51:47 -- SUCESS -- Listing files
+10:51:47 -- ERROR -- 550 No such file or directory.
+10:51:47 -- ERROR -- 550 No such file.
+10:51:57 -- SUCESS -- Downloaded history.log
+10:51:57 -- SUCESS -- Uploaded history_2022-06-23.log
+10:52:10 -- SUCESS -- FTP initialized
+10:52:10 -- SUCESS -- Listing files
+10:52:10 -- ERROR -- 550 No such file or directory.
+10:52:10 -- SUCESS -- Deleted history_2022-06-23.log
+10:52:21 -- SUCESS -- Downloaded history.log
+10:52:21 -- SUCESS -- Uploaded history_2022-06-23.log
+10:52:37 -- SUCESS -- FTP initialized
+10:52:37 -- SUCESS -- Listing files
+10:52:37 -- ERROR -- 550 No such file or directory.
+10:52:37 -- ERROR -- 550 No such file.
+10:52:48 -- SUCESS -- Downloaded history.log
+10:52:48 -- SUCESS -- Uploaded history_2022-06-23.log
+12:26:19 -- ERROR -- [Errno 60] Operation timed out
+12:26:50 -- SUCESS -- FTP initialized
+12:26:50 -- SUCESS -- Listing files
+12:26:50 -- ERROR -- 550 No such file or directory.
+12:26:50 -- ERROR -- 550 No such file.
+12:26:50 -- ERROR -- 550 File not found.

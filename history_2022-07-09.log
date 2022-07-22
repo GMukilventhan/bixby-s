@@ -1,0 +1,51 @@
+15:48:06 -- ERROR -- 530 Login or password incorrect!
+17:06:27 -- ERROR -- [Errno 65] No route to host
+17:09:12 -- ERROR -- [Errno 65] No route to host
+17:09:45 -- ERROR -- [Errno 65] No route to host
+17:14:52 -- ERROR -- [Errno 65] No route to host
+17:15:01 -- ERROR -- [Errno 65] No route to host
+17:15:32 -- INFO -- FTP initialized
+18:07:20 -- INFO -- FTP initialized
+18:08:20 -- INFO -- FTP initialized
+18:08:24 -- INFO -- Listing files
+18:09:57 -- INFO -- FTP initialized
+18:10:06 -- INFO -- Listing files
+18:11:35 -- INFO -- Downloaded history_2022-06-23.log
+18:12:36 -- INFO -- Listing files
+18:12:39 -- INFO -- Listing files
+18:12:40 -- INFO -- Listing files
+18:12:41 -- INFO -- Listing files
+18:13:49 -- INFO -- FTP initialized
+18:15:36 -- INFO -- Uploaded history_2022-07-09.log
+18:20:38 -- INFO -- FTP initialized
+18:20:46 -- INFO -- Created directory direct
+18:23:09 -- INFO -- FTP initialized
+18:23:30 -- INFO -- Renamed direct to CECIestUnDossier
+18:46:21 -- INFO -- FTP initialized
+18:46:23 -- INFO -- Listing files
+18:46:37 -- INFO -- Changed directory to CECIestUnDossier
+18:46:42 -- INFO -- Listing files
+18:48:42 -- INFO -- Uploaded main.py
+18:49:20 -- INFO -- FTP initialized
+18:49:32 -- INFO -- Listing files
+18:49:45 -- INFO -- Changed directory to CECIestUnDossier
+18:49:49 -- INFO -- Listing files
+18:50:26 -- INFO -- FTP initialized
+18:50:31 -- INFO -- Changed directory to CECIestUnDossier
+18:50:33 -- INFO -- Listing files
+18:50:43 -- INFO -- Deleted main.py
+18:50:47 -- INFO -- Listing files
+18:51:00 -- INFO -- Changed directory to ../
+18:51:06 -- INFO -- Listing files
+18:51:12 -- INFO -- Deleted directory CECIestUnDossier
+18:51:17 -- INFO -- Listing files
+18:51:53 -- INFO -- Renamed history_2022-07-09.log to HIST
+18:51:57 -- INFO -- Listing files
+18:52:25 -- INFO -- Downloaded HIST
+18:52:41 -- INFO -- Deleted HIST
+19:02:41 -- ERROR -- [Errno 60] Operation timed out
+19:08:59 -- INFO -- FTP initialized
+19:09:15 -- INFO -- Created directory TestDir
+19:09:18 -- INFO -- Listing files
+19:09:27 -- INFO -- Deleted directory TestDir
+19:09:41 -- INFO -- Listing files
